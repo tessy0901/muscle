@@ -3,7 +3,7 @@
 ## 導入手順
 ```
 # Checkout source code.
-$ git clone git@github.com:ajike/onsen.git
+$ git clone https://github.com/tessy0901/muscle.git
 $ cd onsen
 
 # Install tools and dependencies.
